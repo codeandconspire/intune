@@ -1,6 +1,5 @@
 # intune
 [![npm version][version-badge]][npm-link]
-[![build status][travis-badge]][travis-link]
 [![downloads][downloads-badge]][npm-link]
 [![js-standard-style][standard-badge]][standard-link]
 
